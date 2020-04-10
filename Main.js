@@ -32,3 +32,4 @@ function render(feelArr) {
   })
   return content.innerHTML = feeling.join('');   // inner feeling
 }
+  
