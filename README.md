@@ -1,11 +1,6 @@
 
 If you want to do big things, you must first do small things well.<br>I always want to see the world through my own efforts. <br>Everything in life can be learned just by trying every day, every hour and constantly learning<br><br><h1>"It's not magic. I't talent and sweat."</h1>
 
-<style>
-  h1 {
-    font-size: 900px;
-  }
-</style>
 <br>
 <br>
 
