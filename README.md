@@ -1,5 +1,5 @@
 
-
+![v15Bnk](https://github.com/user-attachments/assets/a339bd22-7c6e-46cd-9049-31fa7b5008d6)
 
 <h1>About me</h1>
 If you want to do big things, you must first do small things well.<br>I always want to see the world through my own efforts. <br>Everything in life can be learned just by trying every day, every hour and constantly learning<br><br>
