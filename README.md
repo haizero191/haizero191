@@ -1,3 +1,50 @@
+<svg width="200" height="200" viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
+  <!-- Mặt trăng -->
+  <circle cx="100" cy="50" r="40" fill="lightgray" />
+  
+  <!-- Tên lửa -->
+  <g id="rocket" transform="translate(100, 150)">
+    <rect width="20" height="40" fill="red" />
+    <polygon points="10,0 0,40 20,40" fill="darkred" />
+    <rect x="6" y="40" width="8" height="10" fill="orange" />
+  </g>
+
+  <!-- Ngọn lửa -->
+  <g id="flame" transform="translate(106, 150)">
+    <polygon points="0,10 4,30 -4,30" fill="orange" />
+  </g>
+
+  <!-- Đường bay -->
+  <path id="flightPath" d="M100 150 Q100 100 100 50" fill="transparent" stroke="none" />
+  
+  <style>
+    #rocket {
+      animation: moveRocket 4s linear infinite;
+    }
+    
+    @keyframes moveRocket {
+      0% {
+        transform: translate(100px, 150px);
+      }
+      100% {
+        transform: translate(100px, 50px);
+      }
+    }
+    
+    #flame {
+      animation: flicker 0.2s infinite;
+    }
+    
+    @keyframes flicker {
+      0%, 100% {
+        opacity: 1;
+      }
+      50% {
+        opacity: 0.5;
+      }
+    }
+  </style>
+</svg>
 
 ![v15Bnk](https://github.com/user-attachments/assets/a339bd22-7c6e-46cd-9049-31fa7b5008d6)
 <br><br>
