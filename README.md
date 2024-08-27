@@ -1,6 +1,19 @@
 
 If you want to do big things, you must first do small things well.<br>I always want to see the world through my own efforts. <br>Everything in life can be learned just by trying every day, every hour and constantly learning<br><br><h1>"It's not magic. I't talent and sweat."</h1>
 
+
+2014-01-09 10:00:00 -0800
+2013-12-23 14:00:00 -0800
+2012-05-20 18:00:00 -0700
+2012-12-18 15:00:00 -0800
+2013-06-11 15:00:00 -0700
+2013-12-03 04:00:00 -0800
+2014-01-06 13:00:00 -0800
+2013-02-03 15:00:00 -0800
+2013-01-13 03:00:00 -0800
+2013-08-26 20:00:00 -0700
+2012-02-19 14:00:00 -0800
+2012-10-06 20:00:00 -0700
 <br>
 <br>
 
