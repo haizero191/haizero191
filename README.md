@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 If you want to do big things, you must first do small things well.<br>I always want to see the world through my own efforts. <br>Everything in life can be learned just by trying every day, every hour and constantly learning<br><br>"It's not magic. I't talent and sweat."
 
 
